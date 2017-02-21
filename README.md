@@ -1,6 +1,8 @@
 ZeroUI
 ======
 
+[![Join the chat at https://gitter.im/bowenpay/zeroui](https://badges.gitter.im/bowenpay/zeroui.svg)](https://gitter.im/bowenpay/zeroui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/bowenpay/zeroui.svg?branch=master)](https://travis-ci.org/bowenpay/zeroui)
 [![npm version](https://img.shields.io/npm/v/zeroui.svg)](https://www.npmjs.org/package/zeroui)
 [![Gitter](https://badges.gitter.im/bowenpay/zeroui.svg)](https://gitter.im/bowenpay/zeroui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
